@@ -1,0 +1,17 @@
+Program running instruction:
+
+Program Name: program.py
+
+Run:
+	- Use command line in a terminal environemnt (unix)
+	- Go under program directory
+	- This program consist of 4 parts of result:
+		part1: question 1~4
+		part2: question 5
+		part3: question 6
+		part4: quesiton 7&8
+
+	- Type in python program command with the 
+	  PART number you want to run for, for example:
+
+		'py program.py 1' will generate the result of part 1 (question 1 ~ 4)
